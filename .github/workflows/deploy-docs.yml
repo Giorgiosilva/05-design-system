@@ -23,7 +23,7 @@ jobs:
 
             - run: npm run build
               env:
-                  TURBO_TOKEN: 0REWH5Sw2Ycttv95EZCjqOB6
+                  TURBO_TOKEN: ${{ secrets.VERCEL_TOKEN }}
                   TURBO_TEAM: doomsday
 
             - name: Deploy storybook
