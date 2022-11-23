@@ -1,0 +1,2 @@
+import{A as t}from"./index.63bf8ac0.js";import"./index.5aa8b756.js";import"./iframe.347a6917.js";import"./index.d822cd4f.js";import"./jsx-runtime.1cf9d453.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/Giorgiosilva.png",alt:"Giorgio Silva"},argTypes:{src:{control:{type:"text"}}}},c={},l={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,l as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.5ce00fe0.js.map
